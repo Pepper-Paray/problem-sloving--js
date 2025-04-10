@@ -4,10 +4,13 @@ let guests;
 guests = 12;
 let sandwiches;
 sandwiches = 2;
+console.log(
+    "guests:", guests, "sandwiches:", sandwiches
+)
 let Amount;
 Amount = guests * sandwiches;
 
 
 console.log(
-    Amount = guests * sandwiches
+    " Amount:"= guests * sandwiches 
 )
